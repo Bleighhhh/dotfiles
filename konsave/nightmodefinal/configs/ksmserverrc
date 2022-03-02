@@ -1,0 +1,19 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101f92511ae1a5000162687150800000017700008
+clientId2=101f92511ae1a5000163474026700000015640007
+count=2
+discardCommand1[$e]=rm,$HOME/.config/session/yakuake_101f92511ae1a5000162687150800000017700008_1634759929_278082
+program1=/usr/bin/yakuake
+program2=pulseaudio
+restartCommand1=/usr/bin/yakuake,-session,101f92511ae1a5000162687150800000017700008_1634759929_278082
+restartCommand2=
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=pietro-k
+userId2=pietro-k

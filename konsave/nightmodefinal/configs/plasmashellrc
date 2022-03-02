@@ -1,0 +1,85 @@
+[KFileDialog Settings]
+Recent Files[$e]=Immagini/temi/desktop/greenforest.jpg,file:///media/pietro-k/6EB8E086B8E04E61/Immagini/temi/desktop/a_new_beginning_ver2_4k_desktop.jpg,file:///media/pietro-k/6EB8E086B8E04E61/BLEIGH/LOGO/SOLO SIMBOLO/BLEIGH DEF E COLORE_Tavola disegno 1 copia 3.png,file:///media/pietro-k/6EB8E086B8E04E61/BLEIGH/LOGO/SOLO SIMBOLO/LOGO_Tavola disegno 1 copia.png,file:///media/pietro-k/6EB8E086B8E04E61/Immagini/temi/desktop/greenforest.jpg
+Recent URLs[$e]=file:///media/pietro-k/6EB8E086B8E04E61/,file:///media/pietro-k/6EB8E086B8E04E61/BLEIGH/LOGO/SOLO SIMBOLO/,file:///media/pietro-k/6EB8E086B8E04E61/BLEIGH/LOGO/,file:///media/pietro-k/6EB8E086B8E04E61/Immagini/
+detailViewIconSize=16
+
+[Open-with settings]
+CompletionMode=1
+History=vim
+
+[PlasmaViews][Panel 101][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 101][Vertical1050]
+thickness=44
+
+[PlasmaViews][Panel 102][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 102][Vertical1080]
+thickness=52
+
+[PlasmaViews][Panel 24][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 24][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 24][Vertical1080]
+thickness=41
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 49][Defaults]
+thickness=50
+
+[PlasmaViews][Panel 49][Horizontal1920]
+thickness=50
+
+[PlasmaViews][Panel 76][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 76][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 76][Vertical1080]
+thickness=44
+
+[PlasmaViews][Panel 77][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 77][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 78][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 78][Horizontal1680]
+thickness=27
+
+[PlasmaViews][Panel 78][Vertical1080]
+thickness=44
+
+[PlasmaViews][Panel 79][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 79][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 80][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 80][Horizontal1680]
+thickness=44
+
+[ScreenConnectors]
+0=eDP-1
+1=HDMI-2
+2=HDMI-1-2
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

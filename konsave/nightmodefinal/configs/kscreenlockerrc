@@ -1,0 +1,8 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=com.tsbarnes.Daniela-Mixed
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/media/pietro-k/6EB8E086B8E04E61/Immagini/temi/desktop/nitish-meena-RbbdzZBKRDY-unsplash.jpg

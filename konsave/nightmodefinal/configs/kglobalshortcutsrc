@@ -1,0 +1,414 @@
+[ActivityManager]
+_k_friendly_name=Gestore delle attività
+switch-to-activity-cdb115e3-cec4-4cfb-a462-9f6b0ce9909c=none,none,Passa all'attività «Doppio schermo dailylav»
+
+[KDE Keyboard Layout Switcher]
+Switch keyboard layout to Italian=none,none,Cambia la mappatura della tastiera a Italian
+Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Passa alla mappatura di tastiera successiva
+_k_friendly_name=Cambiatastiera
+
+[alacritty.desktop]
+_k_friendly_name=Alacritty
+_launch=none,,
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Attiva/Disattiva il lettore dello schermo
+_k_friendly_name=Accessibilità
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Disabilita il touchpad
+Enable Touchpad=F1\tTouchpad On,Touchpad On,Abilita il touchpad
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Cambia lo stato del touchpad
+_k_friendly_name=Touchpad
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Mostra attività del sistema
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Cambia schermo
+
+[khotkeys]
+_k_friendly_name=Servizio per le scorciatoie personalizzate
+{0007d0f6-9d36-4820-bb1d-07cf9593bd63}=Ctrl+Alt+T,none,Launch Alacritty
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Ricerca
+
+[kmix]
+_k_friendly_name=Volume audio
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Riduci volume del microfono
+decrease_volume=Volume Down,Volume Down,Riduci volume
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Aumenta volume del microfono
+increase_volume=Volume Up,Volume Up,Aumenta volume
+mic_mute=Microphone Mute,Microphone Mute,Silenzia microfono
+mute=Volume Mute,Volume Mute,Silenzia
+
+[krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Esegui comando sui contenuti degli appunti
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[ksmserver]
+Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,Ctrl+Alt+Shift+PgDown,Arresto senza conferma
+Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Blocca sessione
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Uscita
+Log Out Without Confirmation=Ctrl+Alt+Shift+Del,Ctrl+Alt+Shift+Del,Uscita senza conferma
+Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,Ctrl+Alt+Shift+PgUp,Riavvio senza conferma
+_k_friendly_name=Gestione della sessione
+
+[kwin]
+Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Attiva la finestra che chiede attenzione
+Cube=Ctrl+F11,Ctrl+F11,Cubo dei desktop
+Cylinder=none,none,Cilindro dei desktop
+Decrease Opacity=none,none,Diminuisci l'opacità della finestra attiva del 5%
+Expose=Ctrl+F9,Ctrl+F9,Attiva/disattiva presentazione delle finestre (Desktop attuale)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Attiva/disattiva presentazione delle finestre (Tutti i desktop)
+ExposeClass=Ctrl+F7,Ctrl+F7,Attiva/disattiva presentazione delle finestre (Classe di finestre)
+FlipSwitchAll=none,none,Attiva/disattiva scambiafinestre a pila (Tutti i desktop)
+FlipSwitchCurrent=none,none,Attiva/disattiva scambiafinestre a pila (Desktop attuale)
+Increase Opacity=none,none,Aumenta l'opacità della finestra attiva del 5%
+Invert Screen Colors=none,none,Inverti i colori dello schermo
+Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Termina la finestra
+Krohnkite: Cycle Layout=,none,
+Krohnkite: Decrease=,none,
+Krohnkite: Down/Next=,none,
+Krohnkite: Float=,none,
+Krohnkite: Float All=Meta+Shift+F,none,
+Krohnkite: Floating Layout=none,none,
+Krohnkite: Grow Height=Meta+Ctrl+J,none,
+Krohnkite: Grow Width=Meta+Ctrl+L,none,
+Krohnkite: Increase=Meta+I,none,
+Krohnkite: Left=,none,
+Krohnkite: Monocle Layout=Meta+M,none,
+Krohnkite: Move Down/Next=Meta+Shift+J,none,
+Krohnkite: Move Left=Meta+Shift+H,none,
+Krohnkite: Move Right=Meta+Shift+L,none,
+Krohnkite: Move Up/Prev=Meta+Shift+K,none,
+Krohnkite: Next Layout=Meta+\\\\,none,
+Krohnkite: Previous Layout=Meta+|,none,
+Krohnkite: Quarter Layout=none,none,
+Krohnkite: Right=,none,
+Krohnkite: Set master=Meta+Return,none,
+Krohnkite: Shrink Height=Meta+Ctrl+K,none,
+Krohnkite: Shrink Width=Meta+Ctrl+H,none,
+Krohnkite: Spread Layout=none,none,
+Krohnkite: Stair Layout=none,none,
+Krohnkite: Three Column Layout=none,none,
+Krohnkite: Tile Layout=Meta+T,none,
+Krohnkite: Up/Prev=,none,
+MoveMouseToCenter=Meta+F6,Meta+F6,Sposta il mouse al centro
+MoveMouseToFocus=Meta+F5,Meta+F5,Sposta il mouse sul fuoco
+MoveZoomDown=none,Meta+Ctrl+Down,Sposta in basso
+MoveZoomLeft=none,Meta+Ctrl+Left,Sposta a sinistra
+MoveZoomRight=none,Meta+Ctrl+Right,Sposta a destra
+MoveZoomUp=none,Meta+Ctrl+Up,Sposta in alto
+Quarter: + Gap Size=,none,Quarter: + Gap Size
+Quarter: + Window Size=Meta+Y,none,Quarter: + Window Size
+Quarter: + Window Size Bottom=,none,Quarter: + Window Size Bottom
+Quarter: + Window Size Left=,none,Quarter: + Window Size Left
+Quarter: + Window Size Right=,none,Quarter: + Window Size Right
+Quarter: + Window Size Top=,none,Quarter: + Window Size Top
+Quarter: - Gap Size=,none,Quarter: - Gap Size
+Quarter: - Window Size=Meta+N,none,Quarter: - Window Size
+Quarter: - Window Size Bottom=,none,Quarter: - Window Size Bottom
+Quarter: - Window Size Left=,none,Quarter: - Window Size Left
+Quarter: - Window Size Right=,none,Quarter: - Window Size Right
+Quarter: - Window Size Top=,none,Quarter: - Window Size Top
+Quarter: Float On/Off=Meta+F,none,Quarter: Float On/Off
+Quarter: Float/Tile Desktop=Meta+Esc,none,Quarter: Float/Tile Desktop
+Quarter: Focus Down=Alt+J,none,Quarter: Focus Down
+Quarter: Focus Left=Alt+H,none,Quarter: Focus Left
+Quarter: Focus Right=Alt+L,none,Quarter: Focus Right
+Quarter: Focus Up=none,none,Quarter: Focus Up
+Quarter: Move Down=Meta+J,none,Quarter: Move Down
+Quarter: Move Left=Meta+H,none,Quarter: Move Left
+Quarter: Move Right=,none,Quarter: Move Right
+Quarter: Move Up=Meta+K,none,Quarter: Move Up
+Quarter: Move to Next Screen=none,none,Quarter: Move to Next Screen
+Quarter: Move to Previous Screen=none,none,Quarter: Move to Previous Screen
+Quarter: Reset All Layouts=Meta+Shift+R,none,Quarter: Reset All Layout
+Quarter: Reset Current Layout=,none,Quarter: Reset Current Layout
+Quarter: Reset Layout=Meta+R,none,Quarter: Reset Layout
+Quarter: Toggle Gaps On/Off=Meta+G,none,Quarter: Toggle Gaps On/Off
+Setup Window Shortcut=none,none,Imposta scorciatoie finestra
+Show Desktop=Meta+D,Meta+D,Mostra desktop
+ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Mostra la griglia dei desktop
+Sphere=none,none,Sfera dei desktop
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Sospendi composizione
+Switch One Desktop Down=none,Meta+Ctrl+Down,Vai al desktop inferiore
+Switch One Desktop Up=none,Meta+Ctrl+Up,Vai al desktop superiore
+Switch One Desktop to the Left=none,Meta+Ctrl+Left,Vai un desktop a sinistra
+Switch One Desktop to the Right=none,Meta+Ctrl+Right,Vai un desktop a destra
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Vai alla finestra sotto
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Vai alla finestra a sinistra
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Vai alla finestra a destra
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Vai alla finestra sopra
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,Vai al desktop 1
+Switch to Desktop 10=none,none,Vai al desktop 10
+Switch to Desktop 11=none,none,Vai al desktop 11
+Switch to Desktop 12=none,none,Vai al desktop 12
+Switch to Desktop 13=none,none,Vai al desktop 13
+Switch to Desktop 14=none,none,Vai al desktop 14
+Switch to Desktop 15=none,none,Vai al desktop 15
+Switch to Desktop 16=none,none,Vai al desktop 16
+Switch to Desktop 17=none,none,Vai al desktop 17
+Switch to Desktop 18=none,none,Vai al desktop 18
+Switch to Desktop 19=none,none,Vai al desktop 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Vai al desktop 2
+Switch to Desktop 20=none,none,Vai al desktop 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Vai al desktop 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Vai al desktop 4
+Switch to Desktop 5=none,none,Vai al desktop 5
+Switch to Desktop 6=none,none,Vai al desktop 6
+Switch to Desktop 7=none,none,Vai al desktop 7
+Switch to Desktop 8=none,none,Vai al desktop 8
+Switch to Desktop 9=none,none,Vai al desktop 9
+Switch to Next Desktop=Alt+Tab,none,Vai al desktop successivo
+Switch to Next Screen=none,none,Vai allo schermo successivo
+Switch to Previous Desktop=none,none,Vai al desktop precedente
+Switch to Previous Screen=none,none,Vai allo schermo precedente
+Switch to Screen 0=none,none,Vai allo schermo 0
+Switch to Screen 1=none,none,Vai allo schermo 1
+Switch to Screen 2=none,none,Vai allo schermo 2
+Switch to Screen 3=none,none,Vai allo schermo 3
+Switch to Screen 4=none,none,Vai allo schermo 4
+Switch to Screen 5=none,none,Vai allo schermo 5
+Switch to Screen 6=none,none,Vai allo schermo 6
+Switch to Screen 7=none,none,Vai allo schermo 7
+Toggle Night Color=none,none,Commuta colore notturno
+Toggle Window Raise/Lower=none,none,Alza/abbassa finestra
+Walk Through Desktop List=none,none,Percorri la lista dei desktop
+Walk Through Desktop List (Reverse)=none,none,Percorri la lista dei desktop (all'indietro)
+Walk Through Desktops=none,none,Percorri i desktop
+Walk Through Desktops (Reverse)=none,none,Percorri i desktop (all'indietro)
+Walk Through Windows=Meta+Tab,Alt+Tab,Percorri le finestre
+Walk Through Windows (Reverse)=Meta+Shift+Tab,Alt+Shift+Backtab,Percorri le finestre (all'indietro)
+Walk Through Windows Alternative=none,none,Percorri le finestre alternativo
+Walk Through Windows Alternative (Reverse)=none,none,Percorri le finestre alternativo (all'indietro)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Percorri le finestre dell'applicazione
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Percorri le finestre dell'applicazione attuale (all'indietro)
+Walk Through Windows of Current Application Alternative=none,none,Percorri le finestre dell'applicazione attuale alternativo
+Walk Through Windows of Current Application Alternative (Reverse)=none,none,Percorri le finestre dell'applicazione attuale alternativo (all'indietro)
+Window Above Other Windows=none,none,Tieni la finestra sopra le altre
+Window Below Other Windows=none,none,Tieni la finestra sotto le altre
+Window Close=Ctrl+Space,Alt+F4,Chiudi la finestra
+Window Fullscreen=none,none,Finestra a tutto schermo
+Window Grow Horizontal=none,none,Allarga la finestra in orizzontale
+Window Grow Vertical=none,none,Allarga la finestra in verticale
+Window Lower=none,none,Abbassa la finestra
+Window Maximize=Meta+Up\tMeta+PgUp,Meta+PgUp,Massimizza finestra
+Window Maximize Horizontal=none,none,Massimizza in orizzontale la finestra
+Window Maximize Vertical=none,none,Massimizza in verticale la finestra
+Window Minimize=Meta+Down\tMeta+PgDown,Meta+PgDown,Minimizza la finestra
+Window Move=none,none,Sposta la finestra
+Window No Border=none,none,Nascondi bordi della finestra
+Window On All Desktops=none,none,Tieni la finestra su tutti i desktop
+Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Finestra in basso di un desktop
+Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Finestra in alto di un desktop
+Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,Finestra a sinistra di un desktop
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,Finestra a destra di un desktop
+Window Operations Menu=Alt+F3,Alt+F3,Menu operazioni della finestra
+Window Pack Down=none,none,Compatta la finestra in basso
+Window Pack Left=none,none,Compatta la finestra a sinistra
+Window Pack Right=none,none,Compatta la finestra a destra
+Window Pack Up=none,none,Compatta la finestra in alto
+Window Quick Tile Bottom=none,Meta+Down,Incastra la finestra in basso
+Window Quick Tile Bottom Left=none,none,Incastra la finestra a sinistra in basso
+Window Quick Tile Bottom Right=none,none,Incastra la finestra a destra i basso
+Window Quick Tile Left=Meta+Left,Meta+Left,Incastra la finestra a sinistra
+Window Quick Tile Right=Meta+Right,Meta+Right,Incastra la finestra a destra
+Window Quick Tile Top=none,Meta+Up,Incastra la finestra in alto
+Window Quick Tile Top Left=none,none,Incastra la finestra a sinistra in alto
+Window Quick Tile Top Right=none,none,Incastra la finestra a destra in alto
+Window Raise=none,none,Alza la finestra
+Window Resize=none,none,Ridimensiona la finestra
+Window Shade=none,none,Arrotola finestra
+Window Shrink Horizontal=none,none,Stringi la finestra in orizzontale
+Window Shrink Vertical=none,none,Stringi la finestra in verticale
+Window to Desktop 1=Meta+F1,none,Finestra al desktop 1
+Window to Desktop 10=none,none,Finestra al desktop 10
+Window to Desktop 11=none,none,Finestra al desktop 11
+Window to Desktop 12=none,none,Finestra al desktop 12
+Window to Desktop 13=none,none,Finestra al desktop 13
+Window to Desktop 14=none,none,Finestra al desktop 14
+Window to Desktop 15=none,none,Finestra al desktop 15
+Window to Desktop 16=none,none,Finestra al desktop 16
+Window to Desktop 17=none,none,Finestra al desktop 17
+Window to Desktop 18=none,none,Finestra al desktop 18
+Window to Desktop 19=none,none,Finestra al desktop 19
+Window to Desktop 2=Meta+F2,none,Finestra al desktop 2
+Window to Desktop 20=none,none,Finestra al desktop 20
+Window to Desktop 3=Meta+F3,none,Finestra al desktop 3
+Window to Desktop 4=Meta+F4,none,Finestra al desktop 4
+Window to Desktop 5=none,none,Finestra al desktop 5
+Window to Desktop 6=none,none,Finestra al desktop 6
+Window to Desktop 7=none,none,Finestra al desktop 7
+Window to Desktop 8=none,none,Finestra al desktop 8
+Window to Desktop 9=none,none,Finestra al desktop 9
+Window to Next Desktop=none,none,Finestra al desktop successivo
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Finestra allo schermo successivo
+Window to Previous Desktop=none,none,Finestra al desktop precedente
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Finestra allo schermo precedente
+Window to Screen 0=Meta+Ctrl+Right,none,Finestra sullo schermo 0
+Window to Screen 1=Meta+Ctrl+Left,none,Finestra sullo schermo 1
+Window to Screen 2=none,none,Finestra sullo schermo 2
+Window to Screen 3=none,none,Finestra sullo schermo 3
+Window to Screen 4=none,none,Finestra sullo schermo 4
+Window to Screen 5=none,none,Finestra sullo schermo 5
+Window to Screen 6=none,none,Finestra sullo schermo 6
+Window to Screen 7=none,none,Finestra sullo schermo 7
+_k_friendly_name=KWin
+bismuth_decrease_master_size=none,none,Bismuth: Decrease Master Area Size
+bismuth_decrease_master_win_count=,none,Bismuth: Decrease Master Area Window Count
+bismuth_decrease_window_height=,none,Bismuth: Decrease Window Height
+bismuth_decrease_window_width=,none,Bismuth: Decrease Window Width
+bismuth_focus_bottom_window=,none,Bismuth: Focus Bottom Window
+bismuth_focus_left_window=,none,Bismuth: Focus Left Window
+bismuth_focus_next_window=none,none,Bismuth: Focus Next Window
+bismuth_focus_prev_window=none,none,Bismuth: Focus Previous Window
+bismuth_focus_right_window=,none,Bismuth: Focus Right Window
+bismuth_focus_upper_window=,none,Bismuth: Focus Upper Window
+bismuth_increase_master_size=none,none,Bismuth: Increase Master Area Size
+bismuth_increase_master_win_count=,none,Bismuth: Increase Master Area Window Count
+bismuth_increase_window_height=,none,Bismuth: Increase Window Height
+bismuth_increase_window_width=,none,Bismuth: Increase Window Width
+bismuth_move_window_to_bottom_pos=,none,Bismuth: Move Window Down
+bismuth_move_window_to_left_pos=,none,Bismuth: Move Window Left
+bismuth_move_window_to_next_pos=none,none,Bismuth: Move Window to the Next Position
+bismuth_move_window_to_prev_pos=none,none,Bismuth: Move Window to the Previous Position
+bismuth_move_window_to_right_pos=,none,Bismuth: Move Window Right
+bismuth_move_window_to_upper_pos=,none,Bismuth: Move Window Up
+bismuth_next_layout=,none,Bismuth: Switch to the Next Layout
+bismuth_prev_layout=,none,Bismuth: Switch to the Previous Layout
+bismuth_push_window_to_master=,none,Bismuth: Push Active Window to Master Area
+bismuth_rotate=,none,Bismuth: Rotate
+bismuth_rotate_part=,none,Bismuth: Rotate Part
+bismuth_toggle_float_layout=,none,Bismuth: Toggle Floating Layout
+bismuth_toggle_monocle_layout=,none,Bismuth: Toggle Monocle Layout
+bismuth_toggle_quarter_layout=none,none,Bismuth: Toggle Quarter Layout
+bismuth_toggle_spread_layout=none,none,Bismuth: Toggle Spread Layout
+bismuth_toggle_stair_layout=none,none,Bismuth: Toggle Stair Layout
+bismuth_toggle_three_column_layout=none,none,Bismuth: Toggle Three Column Layout
+bismuth_toggle_tile_layout=,none,Bismuth: Toggle Tile Layout
+bismuth_toggle_window_floating=,none,Bismuth: Toggle Active Window Floating
+view_actual_size=Meta+0,Meta+0,Dimensione reale
+view_zoom_in=Meta+=,Meta+=,Ingrandisci
+view_zoom_out=Meta+-,Meta+-,Rimpicciolisci
+
+[mediacontrol]
+_k_friendly_name=Controllo multimediale
+mediavolumedown=none,none,Riduci volume del supporto
+mediavolumeup=none,none,Aumenta volume del supporto
+nextmedia=Media Next,Media Next,Riproduzione del supporto successivo
+pausemedia=Media Pause,Media Pause,Sospendi la riproduzione del supporto
+playmedia=none,none,Riproduci il supporto
+playpausemedia=Media Play,Media Play,Riproduci/Pausa supporto
+previousmedia=Media Previous,Media Previous,Riproduzione del supporto precedente
+stopmedia=Media Stop,Media Stop,Ferma la riproduzione del supporto
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E\tCtrl+D,Meta+E,Dolphin
+
+[org.kde.konsole.desktop]
+NewTab=Ctrl+Shift+K,,Apri in una nuova scheda
+NewWindow=Ctrl+K,,Apri in una nuova finestra
+_k_friendly_name=Konsole
+_launch=,,Konsole
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=Selettore di emoji
+_launch=Meta+.,Meta+.,Selettore di emoji
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Cattura finestra attiva
+CurrentMonitorScreenShot=,none,Cattura monitor attuale
+FullScreenScreenShot=Shift+Print,Shift+Print,Cattura intero desktop
+RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Cattura regione rettangolare
+_k_friendly_name=Spectacle
+_launch=Print,Print,Esegui Spectacle
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Abbassa luminosità della tastiera
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Abbassa luminosità dello schermo
+Hibernate=Hibernate,Hibernate,Iberna
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Aumenta luminosità della tastiera
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Aumenta luminosità dello schermo
+PowerDown=Power Down,Power Down,Spegni
+PowerOff=Power Off,Power Off,Spegni
+Sleep=Sleep,Sleep,Sospendi
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Attiva retroilluminazione tastiera
+Turn Off Screen=none,none,Spegni lo schermo
+_k_friendly_name=Gestione energetica
+
+[pavucontrol-qt.desktop]
+_k_friendly_name=PulseAudio Volume Control
+_launch=,,PulseAudio Volume Control
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,Attiva voce 1 del gestore dei processi
+activate task manager entry 10=,Meta+0,Attiva voce 10 del gestore dei processi
+activate task manager entry 2=Meta+2,Meta+2,Attiva voce 2 del gestore dei processi
+activate task manager entry 3=Meta+3,Meta+3,Attiva voce 3 del gestore dei processi
+activate task manager entry 4=Meta+4,Meta+4,Attiva voce 4 del gestore dei processi
+activate task manager entry 5=Meta+5,Meta+5,Attiva voce 5 del gestore dei processi
+activate task manager entry 6=Meta+6,Meta+6,Attiva voce 6 del gestore dei processi
+activate task manager entry 7=Meta+7,Meta+7,Attiva voce 7 del gestore dei processi
+activate task manager entry 8=Meta+8,Meta+8,Attiva voce 8 del gestore dei processi
+activate task manager entry 9=Meta+9,Meta+9,Attiva voce 9 del gestore dei processi
+activate widget 102=,none,Attiva oggetto Avviatore di applicazioni
+activate widget 103=,none,Attiva oggetto Avviatore di applicazioni
+activate widget 37=none,none,Attiva oggetto Volume audio
+activate widget 4=Alt+F1,none,Attiva oggetto Avviatore di applicazioni
+activate widget 41=none,none,Attiva oggetto Notifiche
+activate widget 46=Meta+Ù,none,Attiva oggetto Avviatore di applicazioni
+activate widget 50=,none,Attiva oggetto Avviatore di applicazioni
+activate widget 73=none,none,Attiva oggetto Lettore multimediale
+activate widget 77=,none,Attiva oggetto Avviatore di applicazioni
+activate widget 79=,none,Attiva oggetto Avviatore di applicazioni
+activate widget 80=,none,Attiva oggetto Avviatore di applicazioni
+activate widget 81=,none,Attiva oggetto Avviatore di applicazioni
+clear-history=none,none,Ripulisci la cronologia degli appunti
+clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Abilita le azioni degli appunti
+cycleNextAction=none,none,Elemento successivo nella cronologia
+cyclePrevAction=none,none,Elemento precedente nella cronologia
+edit_clipboard=none,none,Modifica contenuti...
+manage activities=Meta+Q,Meta+Q,Mostra lo scambiatore delle attività
+next activity=,Meta+Tab,Percorri le attività
+previous activity=,Meta+Shift+Tab,Percorri le attività (inverso)
+repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Invoca manualmente le azioni sugli appunti correnti
+show dashboard=Ctrl+F12,Ctrl+F12,Mostra il desktop
+show-barcode=none,none,Mostra codice a barre...
+show-on-mouse-pos=none,none,Apri Klipper alla posizione del mouse
+stop current activity=Meta+S,Meta+S,Ferma l'attività attuale
+switch to next activity=none,none,Passa all'attività successiva
+switch to previous activity=none,none,Passa all'attività precedente
+toggle do not disturb=none,none,Attiva Non disturbare
+
+[systemsettings.desktop]
+_k_friendly_name=Impostazioni di sistema
+_launch=Tools,Tools,Impostazioni di sistema
+kcm-kscreen=,,Configurazione dello schermo
+kcm-lookandfeel=,,Tema globale
+kcm-users=,,Utenti
+powerdevilprofilesconfig=,,Risparmio energetico
+screenlocker=,,Blocco dello schermo
+
+[thunderbird.desktop]
+Compose=,,Componi nuovo messaggio
+Contacts=,,Contatti
+_k_friendly_name=Email Mozilla Thunderbird
+_launch=,,Email Mozilla Thunderbird
+
+[wacomtablet]
+Map to fullscreen=Meta+Ctrl+F,Meta+Ctrl+F,Associa a schermo intero
+Map to screen 1=Meta+Ctrl+1,Meta+Ctrl+1,Associa allo schermo 1
+Map to screen 2=Meta+Ctrl+2,Meta+Ctrl+2,Associa allo schermo 2
+Next Profile=Meta+Ctrl+N,Meta+Ctrl+N,Profilo successivo
+Previous Profile=Meta+Ctrl+P,Meta+Ctrl+P,Profilo precedente
+Toggle screen map selection=Meta+Ctrl+M,Meta+Ctrl+M,Commuta tra tutti gli schermi
+Toggle stylus mode=Meta+Ctrl+S,Meta+Ctrl+S,Commuta il pennino da relativo ad assoluto
+Toggle touch tool=Meta+Ctrl+T,Meta+Ctrl+T,Abilita/disabilita lo strumento tattile
+_k_friendly_name=Tavoletta Wacom
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=F12,F12,Apri/chiudi Yakuake
