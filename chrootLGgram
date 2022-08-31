@@ -1,0 +1,12 @@
+# questo è per montare da live ISO di EndeaourOS in modalità UEFI
+
+$ sudo mount /dev/nvme0n1p1 /mnt/boot/efi
+$ sudo mount /dev/nvme01p4 /mnt
+
+# questo entra nell'insallazione vera
+
+$ sudo arch-chroot /mnt
+
+# questo esce da chroot
+
+$ exit
